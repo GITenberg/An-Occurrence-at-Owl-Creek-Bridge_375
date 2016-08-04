@@ -1,0 +1,48 @@
+_repo: An-Occurrence-at-Owl-Creek-Bridge_375
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bierce, Ambrose
+    alias: Grile, Dod
+    birthdate: 1842
+    deathdate: 1913
+    gutenberg_agent_id: '206'
+    url: http://www.gutenberg.org/2009/agents/206
+    wikipedia: http://en.wikipedia.org/wiki/Ambrose_Bierce
+description: "\"An Occurrence at Owl Creek Bridge\" or \"A Dead Man's Dream\" is a\
+  \ short story by American author Ambrose Bierce. Originally published by The San\
+  \ Francisco Examiner on July 13, 1890, it was first collected in Bierce's 1891 book\
+  \ Tales of Soldiers and Civilians. The story, which is set during the Civil War,\
+  \ is famous for its irregular time sequence and twist ending. Bierce's abandonment\
+  \ of strict linear narration in favor of the internal mind of the protagonist is\
+  \ considered an early example of experimentation with stream of consciousness. It\
+  \ is Bierce's most anthologized story.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- US Civil War
+- Horror
+gutenberg_issued: '1995-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '375'
+  wikidata: Q2943621
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Prisoners -- Fiction'
+- GITenberg
+title: An Occurrence at Owl Creek Bridge
+url: http://www.gutenberg.org/ebooks/375
+wikipedia:
+- https://fr.wikipedia.org/wiki/Ce_qui_se_passa_sur_le_pont_de_Owl_Creek
+- https://sh.wikipedia.org/wiki/An_Occurrence_at_Owl_Creek_Bridge
+- https://de.wikipedia.org/wiki/An_Occurrence_at_Owl_Creek_Bridge
+- https://en.wikisource.org/wiki/An_Occurrence_at_Owl_Creek_Bridge
+- https://en.wikipedia.org/wiki/An_Occurrence_at_Owl_Creek_Bridge
+- https://commons.wikimedia.org/wiki/Category:An_Occurrence_at_Owl_Creek_Bridge
+- https://ru.wikipedia.org/wiki/%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9_%D0%BD%D0%B0_%D0%BC%D0%BE%D1%81%D1%82%D1%83_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D0%A1%D0%BE%D0%B2%D0%B8%D0%BD%D1%8B%D0%B9_%D1%80%D1%83%D1%87%D0%B5%D0%B9
+- https://fr.wikisource.org/wiki/Un_incident_au_pont_d%E2%80%99Owl-Creek
